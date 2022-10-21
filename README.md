@@ -5,7 +5,10 @@
 
 
 Result on test set:
-![Screenshot from 2022-10-21 22-40-53](https://user-images.githubusercontent.com/62126142/197235316-9ab56c4e-674a-4e97-80b9-6ef17c3a83bd.png)
+
+
+
+![Screenshot from 2022-10-21 22-42-37](https://user-images.githubusercontent.com/62126142/197235642-34fae6ba-e51d-4abd-8b53-96a1e51207f8.png)
 
 
 
