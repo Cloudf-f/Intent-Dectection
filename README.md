@@ -4,4 +4,7 @@
 - I use 2 model : pretrained Word2Vec embedding + LSTM and PhoBERT to classifer
 
 
+
+
+
 Dataset: https://github.com/VinAIResearch/JointIDSF/tree/main/PhoATIS
